@@ -14,6 +14,6 @@ DOI: 10.17632/y2px5tg92h.2
 
 Related article to the dataset and its title and link:
 Title: 
-University of Ottawa Ball-Bearing Vibration and Acoustic Fault Data Under Constant Load and Speed Conditions (UODS-VAFDC): Experimental Setup ;
+University of Ottawa Ball-Bearing Vibration and Acoustic Fault Data Under Constant Load and Speed Conditions (UODS-VAFDC); Experimental Setup :
 Link:
 https://www.researchgate.net/publication/370452975_University_of_Ottawa_Ball-Bearing_Vibration_and_Acoustic_Fault_Data_Under_Constant_Load_and_Speed_Conditions_UODS-VAFDC_Experimental_Setup
